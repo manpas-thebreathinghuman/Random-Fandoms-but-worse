@@ -92,5 +92,36 @@
 		"uniques": ["[+33]% [Food] from City-States","[+33]% [Culture] from City-States","[+33]% [Faith] from City-States","Military Units gifted from City-States start with [+8] XP","Gifts of Gold to City-States generate [50]% more Influence","Gain [200] [Culture]<upon declaring friendship>"],
 		"cities": ["Man I love Fauna","aDORObles"],
 		"spyNames": ["ilovevtubershrimps","hami._baba"]
+	},
+	{
+	"name": "Fujoshi Nation",
+	"leaderName": "",
+	"adjective": ["fujos"],
+	"preferredVictoryType": "Cultural",
+	
+	"declaringWar": "",
+	"attacked": "",
+	"defeated": "",
+	"introduction": "Read Yaoi and be happy",
+	
+	"neutralHello": "How are you doing?",
+	"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+	"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+	"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+	"hateHello": "What do you want now?",
+	"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+	"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+	"hateYes": ["That is fine.","That is good enough.","Very well..."],
+	 
+	"afterPeace": "",
+	"tradeRequest": "We bestow you the honor of this trade offer.",
+
+	"outerColor": [180,30,90],
+	"innerColor": [255,182,193],
+	"uniqueName": "Yaoi",
+	"uniques": ["[+1 Happiness, +2 Food] per [4] population [in Capital]"],
+	"cities": ["Yaoi","idk man I don't read yaoi","rename all of the city names into bl titles"],
+	"spyNames": ["fujo1","fujo2","fujo3","fujo4","fujo5","fujo6","fujo7","fujo8"]
 	}
 ]
