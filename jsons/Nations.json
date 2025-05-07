@@ -94,34 +94,65 @@
 		"spyNames": ["ilovevtubershrimps","hami._baba"]
 	},
 	{
-	"name": "Fujoshi Nation",
-	"leaderName": "",
-	"adjective": ["fujos"],
-	"preferredVictoryType": "Cultural",
-	
-	"declaringWar": "",
-	"attacked": "",
-	"defeated": "",
-	"introduction": "Read Yaoi and be happy",
-	
-	"neutralHello": "How are you doing?",
-	"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-	"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-	"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"name": "Fujoshi Nation",
+		"leaderName": "",
+		"adjective": ["fujos"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Read Yaoi and be happy",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-	"hateHello": "What do you want now?",
-	"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-	"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-	"hateYes": ["That is fine.","That is good enough.","Very well..."],
-	 
-	"afterPeace": "",
-	"tradeRequest": "We bestow you the honor of this trade offer.",
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-	"outerColor": [180,30,90],
-	"innerColor": [255,182,193],
-	"uniqueName": "Yaoi",
-	"uniques": ["[+1 Happiness, +2 Food] per [4] population [in Capital]"],
-	"cities": ["Yaoi","idk man I don't read yaoi","rename all of the city names into bl titles"],
-	"spyNames": ["fujo1","fujo2","fujo3","fujo4","fujo5","fujo6","fujo7","fujo8"]
+		"outerColor": [180,30,90],
+		"innerColor": [255,182,193],
+		"uniqueName": "Yaoi",
+		"uniques": ["[+1 Happiness, +2 Food] per [4] population [in Capital]"],
+		"cities": ["Yaoi","idk man I don't read yaoi","rename all of the city names into bl titles"],
+		"spyNames": ["fujo1","fujo2","fujo3","fujo4","fujo5","fujo6","fujo7","fujo8"]
+	},
+	{
+		"name": "Gonathon G",
+		"leaderName": "Gonathon G",
+		"adjective": ["Grems"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Boat Goes Binted",
+		
+		"declaringWar": "Huzzah!! For the queen!",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Gi Murin!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "STOOP FIGHTIING!",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [253,180,64],
+		"innerColor": [101,78,87],
+		"uniqueName": "Humble knight",
+		"uniques": ["[Sword] units gain the [The fister] promotion","[Mounted] units gain the [The fister] promotion","[20] HP when healing<for [Mounted] units>"],
+		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofister", "The Chaser", "League of legends","Grempreg","Boat Goes Binted","Bark bark bark"]
 	}
 ]

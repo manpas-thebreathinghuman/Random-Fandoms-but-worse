@@ -7,5 +7,16 @@
 		"maintenance": 1,
 		"uniques": ["[+1 Science, +1 Happiness] per [2] population [in this city]"],
 		"requiredTech": "Writing"
+	},
+	{
+		"name": "Gonathon's Tree",
+		"uniqueTo": "Gonathon G",
+		"replaces": "Ironworks",
+		"cost": 95,
+		"production": 8,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"requiredTech": "Guilds"
 	}
 ]
