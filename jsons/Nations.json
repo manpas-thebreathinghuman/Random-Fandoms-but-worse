@@ -152,7 +152,7 @@
 		"outerColor": [253,180,64],
 		"innerColor": [101,78,87],
 		"uniqueName": "Humble knight",
-		"uniques": ["[Sword] units gain the [The fister] promotion","[Mounted] units gain the [The fister] promotion","[20] HP when healing<for [Mounted] units>"],
+		"uniques": ["[Sword] units gain the [The fister] promotion","[Mounted] units gain the [The fister] promotion","Gain [200] [Culture]<upon declaring friendship>"],
 		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofister", "The Chaser", "League of legends","Grempreg","Boat Goes Binted","Bark bark bark"]
 	}
 ]
