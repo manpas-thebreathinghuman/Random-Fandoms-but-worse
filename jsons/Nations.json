@@ -154,5 +154,35 @@
 		"uniqueName": "Humble knight",
 		"uniques": ["[Sword] units gain the [The fister] promotion","[Mounted] units gain the [The fister] promotion","Gain [200] [Culture]<upon declaring friendship>"],
 		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofister", "The Chaser", "League of legends","Grempreg","Boat Goes Binted","Bark bark bark"]
+	},
+	{
+		"name": "Cell to Singularity",
+		"leaderName": "Semblance",
+		"adjective": ["Sims"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [20,68,140],
+		"innerColor": [253,252,252],
+		"uniqueName": "Evolution Simulation",
+		"uniques": ["[+2 Food] from every [Scientist]","[+5 Food] from every [Academy]"],
+		"cities": ["Amino Acid","DNA","Prokaryotic Cell","Eukaryotic Cell","Sponge","Jellyfish","Flatworm","Fish","Tetrapod","Mammal","Ape","Human","Stone Age","Neolithic","Bronze Age","Iron Age","Middle Ages","Age of Exploration","Scientific Revolution","Industrial Revolution","Atomic Age","Information Age","Emergent Age","Singularity","Cyborg","Superhuman","Humanoid Colonists","Android","Sentient Android","Turtle","Crocodilia","Lizard","Snake","Galliformes","Anseriformes","Paleognathae","Neoaves","Rover","Human Expedition","Martian Settlement","Martian Factory","Martian City","Glires","Ungulates","Marsupials","Caniform","Cetaceans","Monotremes","Feliform","Fungi"]
 	}
 ]

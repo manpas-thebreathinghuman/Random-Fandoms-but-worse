@@ -18,5 +18,19 @@
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
 		"requiredTech": "Guilds"
+	},
+	{
+		"name": "Singularity",
+		"uniqueTo": "Cell to Singularity",
+		"cost": 1250,
+		"isNationalWonder": true,
+		"uniques": ["Triggers victory","Triggers a global alert upon build start","Cannot be hurried","Only available <if [Singularity Node] is constructed in all [non-[Puppeted]] cities>"],
+		"requiredTech": "Nanotechnology"
+	},
+	{
+		"name": "Singularity Node",
+		"uniqueTo": "Cell to Singularity",
+		"cost": 900,
+		"requiredTech": "Computers"
 	}
 ]
