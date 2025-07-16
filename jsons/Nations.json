@@ -184,5 +184,96 @@
 		"uniqueName": "Evolution Simulation",
 		"uniques": ["[+2 Food] from every [Scientist]","[+5 Food] from every [Academy]"],
 		"cities": ["Amino Acid","DNA","Prokaryotic Cell","Eukaryotic Cell","Sponge","Jellyfish","Flatworm","Fish","Tetrapod","Mammal","Ape","Human","Stone Age","Neolithic","Bronze Age","Iron Age","Middle Ages","Age of Exploration","Scientific Revolution","Industrial Revolution","Atomic Age","Information Age","Emergent Age","Singularity","Cyborg","Superhuman","Humanoid Colonists","Android","Sentient Android","Turtle","Crocodilia","Lizard","Snake","Galliformes","Anseriformes","Paleognathae","Neoaves","Rover","Human Expedition","Martian Settlement","Martian Factory","Martian City","Glires","Ungulates","Marsupials","Caniform","Cetaceans","Monotremes","Feliform","Fungi"]
+	},
+	{
+		"name": "Konosuba",
+		"leaderName": "Satou Kazuma",
+		"adjective": ["Konosuba"],
+		"preferredVictoryType": "Domination",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [237,4,119],
+		"innerColor": [248,129,27],
+		"uniqueName": "God's Blessing on This Wonderful World",
+		"uniques": ["[15] HP when healing<in [Friendly] tiles>","[Archery] units gain the [Steal] promotion"],
+		"cities": ["Axel","Kazuma's Mansion","Adventurer Guild","Crimson Demon Village","Arcanletia","Dustiness Manor","Wiz's Shop","Succubus Cafe","Abandoned Castle"],
+		"spyNames": ["Luna","Wiz","Yunyun","Chris","Dust","Vanir","Sena","Mitsurugi"]
+	},
+	{
+		"name": "Watanare",
+		"leaderName": "Amaori Renako",
+		"adjective": ["Mai's circle"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [237,4,119],
+		"innerColor": [248,129,27],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+		"name": "Uma Musume",
+		"leaderName": "Director Yayoi Akikawa",
+		"adjective": ["Uma Musume"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [242,83,134],
+		"innerColor": [251,234,24],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": [""]
 	}
 ]

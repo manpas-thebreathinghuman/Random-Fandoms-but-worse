@@ -2,5 +2,13 @@
     {
         "name": "The fister",
         "uniques": ["[+33]% Strength <when attacking>"]
+    },
+    {
+        "name": "Steal",
+        "uniques": ["[Target Unit] gains the [Panties Stolen] status for [3] turn(s)<upon damaging a [All] unit>"]
+    },
+    {
+        "name": "Panties Stolen",
+        "uniques": ["[This Unit] loses [1] movement<upon turn start>"]
     }
 ]
