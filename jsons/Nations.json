@@ -247,33 +247,33 @@
 		"cities": [""]
 	},
 	{
-		"name": "Uma Musume",
-		"leaderName": "Director Yayoi Akikawa",
-		"adjective": ["Uma Musume"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+        "name": "Tracen Academy",
+        "leaderName": "Director Yayoi Akikawa",
+        "adjective": ["Uma Musume"],
+        "preferredVictoryType": "Diplomatic",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
 
-		"outerColor": [242,83,134],
-		"innerColor": [251,234,24],
-		"uniqueName": "",
-		"uniques": [""],
-		"cities": [""]
-	}
+        "neutralHello": "How are you doing?",
+        "neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+        "neutralNo": ["We absolutely refuse.","No!","I refuse."],
+        "neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+        "hateHello": "What do you want now?",
+        "hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+        "hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+        "hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+        "afterPeace": "",
+        "tradeRequest": "We bestow you the honor of this trade offer.",
+
+        "outerColor": [242,83,134],
+        "innerColor": [251,234,24],
+        "uniqueName": "Eclipse first, the rest nowhere",
+        "uniques": ["[Mounted] units gain the [Uma Musume] promotion"],
+        "cities": ["Starting gate","Ritto Dorm","Miho Dorm", "Training track", "Trainers' Office", "Gym", "Cafetaria", "Infirmary", "Three Goddesses Statue", "Shrine", "Market", "Beach", "Hot spring"]
+    }
 ]

@@ -30,7 +30,23 @@
 	{
 		"name": "Singularity Node",
 		"uniqueTo": "Cell to Singularity",
-		"cost": 900,
+		"cost": 1000,
 		"requiredTech": "Computers"
+	},
+	{
+		"name": "Starting Gate",
+        "uniqueTo": "Tracen Academy",
+        "replaces": "Stable",
+    	"cost": 1,
+    	"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+    	    "[+1 Production] from [Horses] tiles [in this city]"],
+	    "requiredTech": "Horseback Riding"
+    },
+	{
+		"name": "Beach Training",
+		"uniqueTo": "Tracen Academy",
+		"cost": 120,
+		"uniques": ["All newly-trained [Military] units [in this city] receive the [Friendhip Training] promotion", "Must be next to [Coast]"],
+		"requiredTech": "Guilds"
 	}
 ]
