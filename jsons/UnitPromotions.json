@@ -32,12 +32,12 @@
     {
         "name": "Power",
         "prerequisites": ["Uma Musume"],
-        "uniques": ["[+15%] Strength"]
+        "uniques": ["+[15%] Strength"]
     },
     {
         "name": "Guts",
         "prerequisites": ["Uma Musume"],
-        "uniques": ["[+33%] Strength<when [Wounded]>"]
+        "uniques": ["+[33%] Strength<when [Wounded]>"]
     },
     {
         "name": "Wit",
