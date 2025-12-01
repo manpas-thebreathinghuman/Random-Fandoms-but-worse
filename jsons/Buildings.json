@@ -1,222 +1,75 @@
 [
 	{
-		"name": "Sholat Center Indonesia",
-		"replaces": "Temple",
-		"uniqueTo": "Trenmatika",
-		"faith": 3,
-		"culture": 1,
-		"requiredBuilding": "Shrine",
-		"maintenance": 2,
+		"name": "Yaoi bookstore",
+		"uniqueTo": "Fujoshi Nation",
+		"replaces": "Library",
 		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured","[+10]% Production when constructing [Military] units [in this city]"]
-	},
-	{
-		"name": "Shoebox",
-		"replaces": "Barracks",
-		"uniqueTo": "Gigi Murin Ch.",
-		"hurryCostModifier": 25,
-		"cityStrength": 3,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [21] Experience [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Bronze Working"
+		"uniques": ["[+1 Science, +1 Happiness] per [2] population [in this city]"],
+		"requiredTech": "Writing"
 	},
 	{
-		"name": "TWICE Square",
-		"replaces": "National Epic",
-		"uniqueTo": "TWICE",
-		"cost": 125,
-		"cityStrength": 9,
+		"name": "Gonathon's Tree",
+		"uniqueTo": "Gonathon G",
+		"replaces": "Ironworks",
+		"cost": 95,
+		"production": 8,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city","[+9]% Great Person generation [in all cities]"],
-		"requiredTech": "Drama and Poetry"
-	},
-	{
-		"name": "Ultimate students (culture, science, and engineering)",
-		"uniqueTo": "Hope's Peak Academy",
-		"cost": 300,
-		"specialistSlots": {"Scientist": 1, "Artist": 1,"Engineer": 1},
-		"maintenance": 1,
-		"requiredTech": "Scientific Theory"
-	},
-	{
-		"name": "The Biboo tax",
-		"uniqueTo": "Koseki Bijou Ch.",
-		"replaces": "Bank",
-		"gold": 2,
-		"culture": 3,
-		"science": -1,
-		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
-		"requiredTech": "Banking"
-	},
-	{
-		"name": "Paperclip & Drone Factory",
-		"uniqueTo": "Universal Paperclips",
-		"replaces": "Factory",
-		"cost": 360,
-		"production": 4,
-		"percentStatBonus": {"production": 10, "gold": 10, "happiness": 10},
-		"specialistSlots": {"Engineer": 2},
-		"requiredBuilding": "Workshop",
-		"maintenance": 3,
-		"hurryCostModifier": 0,
-		"uniques": ["[+10]% Production when constructing [spaceship part] buildings [in this city]","[+10]% Production when constructing [Helicopter] units [in this city]"],
-		"requiredResource": "Coal",
-		"requiredTech": "Industrialization"
-	},
-	{
-		"name": "Shopkeeper's Shop",
-		"uniqueTo": "Shattered pixel dungeon",
-		"replaces": "Market",
-		"gold": 2,
-		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 10, "food": 5, "science": 5},
-		"requiredTech": "Currency"
-	},
-	{
-		"name": "Abydos School Building",
-		"uniqueTo": "Abydos High School",
-		"replaces": "Library",
-		"science": 2,
-		"cityStrength": 5,
-		"cityHealth": 50,
-		"hurryCostModifier": 25,
-		"maintenance": 2,
-		"uniques": ["[+1 Science] per [2] population [in this city]"],
-		"requiredTech": "Writing"
-	},
-	{
-		"name": "Tube Station",
-		"uniqueTo": "Jay Foreman",
-		"uniques": ["[+2 Gold, +2 Culture, +2 Production]<in cities connected to the capital>","[+2 Gold, +2 Culture, +2 Production]<in [capital] cities>"],
-		"requiredTech": "Railroads"
-	},
-	{
-		"name": "Grandma's Food",
-		"uniqueTo": "Jay Foreman",
-		"replaces": "Hospital",
-		"food": 4,
-		"requiredBuilding": "Aqueduct",
-		"maintenance": 2,
-		"hurryCostModifier": 0,
-		"requiredTech": "Biology",
-		"uniques": ["[+1 Food] per [5] population [in this city]"]
-	},
-	{
-		"name": "Holo House",
-		"uniqueTo": "Holocure",
-		"replaces": "Granary",
-		"food": 2,
-		"gold": 2,
-		"maintenance": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
-			"[+1 Food] from [Bananas] tiles [in this city]",
-			"[+1 Food] from [Wheat] tiles [in this city]"],
-		"requiredTech": "Pottery"
-	},
-	{
-		"name": "Purble Place",
-		"uniqueTo": "Microsoft Games",
-		"replaces": "Windmill",
-		"production": 2,
-		"food": 2,
-		"specialistSlots": {"Engineer": 1, "Artist": 1},
-		"hurryCostModifier": 25,
-		"maintenance": 2,
-		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]"],
-		"requiredTech": "Economics"
-	},
-	{
-		"name": "Crystal Vault",
-		"uniqueTo": "Atlantis",
-		"replaces": "Library",
-		"cost": "100",
-		"hurryCostModifier": 25,
-		"maintenance": 3,
-		"uniques": ["[+1 Science, +1 Culture] per [1] population [in this city]"],
-		"requiredTech": "Writing"
-
-	},
-	{
-		"name": "Workers' Happy Factory",
-		"uniqueTo": "Red Winter Federal Academy",
-		"replaces": "Factory",
-		"cost": 360,
-		"production": 4,
-		"percentStatBonus": {"production": 10, "happiness": -10},
-		"specialistSlots": {"Engineer": 2},
-		"requiredBuilding": "Workshop",
-		"hurryCostModifier": 0,
-		"requiredResource": "Coal",
-		"requiredTech": "Industrialization"
-	},
-	{
-		"name": "Deers",
-		"uniqueTo": "Deer Club",
-		"uniques": ["Provides [1] [Horses]"]
-	},
-	{
-		"name": "Deer Cracker Stash",
-		"uniqueTo": "Deer Club",
-		"replaces": "Granary",
-		"food": 2,
-		"maintenance": 1,
-		"hurryCostModifier": 25,
-		"percentStatBonus": {"happiness": 10},
-		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
-			"[+1 Food] from [Bananas] tiles [in this city]",
-			"[+1 Food] from [Wheat] tiles [in this city]",
-			"New [Mounted] units start with [10] experience [in all cities]"],
-		"requiredTech": "Pottery"
-	},
-	{
-		"name": "Ramaikan, Lalu Hitamkan",
-		"uniqueTo": "Schizo Nation",
-		"replaces": "Armory",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"requiredBuilding": "Barracks",
-		"uniques": ["New [Military] units start with [15] experience [in this city]","All newly-trained [Melee] units [in this city] receive the [Blackmen] promotion", "Destroyed when the city is captured"],
-		"requiredTech": "Steel"
-	},
-	{
-		"name": "Ada Indonesia Cuy!",
-		"uniqueTo": "Schizo Nation",
-		"replaces": "Circus",
-		"happiness": 2,
-		"hurryCostModifier": 25,
-		"uniques": ["[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Gifts of Gold to City-States generate [50]% more Influence"],
-		"requiredTech": "Trapping"
-	},
-	{
-		"name": "Misdo",
-		"uniqueTo": "FUWAMOCO Ch.",
-		"replaces": "Market",
-		"gold": 2,
-		"food": 1,
-		"happiness": 1,
-		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25},
-		"uniques": ["Provides [1] [Pon De Ring]"],
-		"requiredTech": "Currency"
-	},
-	{
-		"name": "Mod Fork",
-		"uniqueTo": "Unciv",
-		"replaces": "Bank",
-		"gold": 2,
-		"happiness": 2,
-		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
-		"uniques": ["Comment [Unlocked at [Guilds]]", "[+1 Culture] per [5] population [in this city]"],
+		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
 		"requiredTech": "Guilds"
+	},
+	{
+		"name": "Singularity",
+		"uniqueTo": "Cell to Singularity",
+		"cost": 1250,
+		"isNationalWonder": true,
+		"uniques": ["Triggers victory","Triggers a global alert upon build start","Cannot be hurried","Only available <if [Singularity Node] is constructed in all [non-[Puppeted]] cities>"],
+		"requiredTech": "Nanotechnology"
+	},
+	{
+		"name": "Singularity Node",
+		"uniqueTo": "Cell to Singularity",
+		"cost": 1000,
+		"requiredTech": "Computers"
+	},
+	{
+		"name": "Starting Gate",
+        "uniqueTo": "Tracen Academy",
+        "replaces": "Stable",
+    	"cost": 1,
+    	"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+    	    "[+1 Production] from [Horses] tiles [in this city]"],
+	    "requiredTech": "Horseback Riding"
+    },
+	{
+		"name": "Beach Training",
+		"uniqueTo": "Tracen Academy",
+		"cost": 120,
+		"uniques": ["All newly-trained [Military] units [in this city] receive the [Friendhip Training] promotion", "Must be next to [Coast]"],
+		"requiredTech": "Guilds"
+	},
+	{
+		"name": "Cloner",
+		"uniqueTo": "Tolacen Academy",
+		"replaces": "Stable",
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+20]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Tolacen 2",
+		"uniqueTo": "Tolacen Academy",
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Cloner] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [30] per owned city",
+			"Destroyed when the city is captured",
+			"Limited to [1] per Civilization",
+			"Free [Ummusme Clone] appears<upon declaring friendship>"],
+		"requiredTech": "Engineering"
 	}
 ]

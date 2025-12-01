@@ -1,446 +1,13 @@
 [
 	{
-		"name": "Trenmatika",
-		"leaderName": "Ustadz Abu Sangkan",
-		"adjective": ["Trenmatikans"],
-		"preferredVictoryType": "Scientific",
-		"favoredReligion": "Islam",
-		
-		"declaringWar": "Aku lihat ibadahmu seperti orang munafik, bersiaplah untuk takut pada tuhan yang satu!",
-		"attacked": "Pikirkanlah matang-matang sebelum kau berbuat...",
-		"defeated": "Terkutuklah kau sampai keruntuhan peradabanmu!!",
-		"introduction": "Ah, saudara baru! Hiduplah di sekitarku dengan damai sebagai rahmat dari tuhan. Untukmu dan untukku",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "Semoga perdamaian ini bertahan lama",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [44,58,140],
-		"innerColor": [241,110,38],
-		"uniqueName": "Khusyuk",
-		"uniques": ["[+2 Science, +2 Faith] per [5] population [in all cities]"],
-		"cities": ["Rumah uts. Abu","Kamar ustadz","Aula","Masjid","Asrama laki-laki","Asrama perempuan","Ruang kepala sekolah","Lapangan depan","lapangan belakang","Perpustakaan","Lab Komputer","Ruang OSIS"]
-	},
-	{
-		"name": "Gigi Murin Ch.",
-		"leaderName": "Gigi Murin",
-		"adjective": ["Grems"],
+		"name": "Horseracetest",
+		"leaderName": "snakesandrews",
+		"adjective": ["Horses"],
+		"startBias": ["Grassland","Horses"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Boat Goes Binted",
 		
-		"declaringWar": "Huzzah!! For the queen!",
-		"attacked": "You suck!!!! Go back home!!! Stop being a pain in my ass!!!",
-		"defeated": "Ah. Dammit, better luck next time, I guess.",
-		"introduction": "Gi Murin!",
-		
-		"neutralHello": "League of legends",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "STOOP FIGHTIING!",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [253,180,64],
-		"innerColor": [101,78,87],
-		"uniqueName": "The Fister",
-		"uniqueText": "All Sword, Mounted, and Gunpowder units gets +33% strength when attacking",
-		"uniques": ["[Sword] units gain the [The fister] promotion","[Mounted] units gain the [The fister] promotion","[Gunpowder] units gain the [The fister] promotion"],
-		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofister", "The Chaser", "League of legends","Grempreg","Boat Goes Binted","Bark bark bark"]
-	},
-	{
-		"name": "TWICE",
-		"leaderName": "Park Jihyo",
-		"adjective": ["Once"],
-		"preferredVictoryType": "Cultural",
-		"favoredReligion": "TWICE",
-		
-		"declaringWar": "Like a bulldozer! Like a tank, like a soldier! Kowasu yo kimi no kokoro no gaado",
+		"declaringWar": "",
 		"attacked": "",
-		"defeated": "I'm like TT, just like TT. ireon nae mam moreugo neomuhae! neomuhae!",
-		"introduction": "One in a million, TWICE imnida",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [240,97,161],
-		"innerColor": [255,255,255],
-		"uniqueName": "Urin baro TWICE~",
-		"uniques": ["Free [Great Artist] appears <upon entering the [Renaissance era]>","Free [Great Artist] appears <upon entering the [Modern era]>","Free [Great Artist] appears <upon entering the [Information era]>","[Great Artist] is earned [50]% faster"],
-		"cities": ["Like OOH-AHH","Cheer Up","TT","Knock Knock","Signal","One More Time","Likey","Heart Shaker","Merry & Happy","Candy Pop","Brand New Girl","What Is Love?","Wake Me Up","Dance The Night Away","BDZ","Yes Or Yes","The Best Thing I Ever Did","Fancy","Happy Happy","Breakthrough","Feel Special","Fake & True","More & More","Fanfare","I Can't Stop Me","Better","Kura Kura","Alchohol-Free","Perfect World","The Feels","Scientist","Doughnut","Pop!","Celebrate","Talk That Talk","Moonlight Sunrise","Set Me Free","Hare Hare","Marshmallow","Do Not Touch","Killin' Me Good","I Got You","One Spark","ABCD","Dive","Run Away","Identity","Strategy"]
-	},
-	{
-		"name": "Hope's Peak Academy",
-		"leaderName": "Jin Kirigiri",
-		"adjective": ["Ultimate students"],
-		"preferredVictoryType": "Diplomatic",
-		"favoredReligion": "Hope",
-		
-		"declaringWar": "your defeat is completely inevitable, you would’ve done much better to stay out of my way.",
-		"attacked": "if you think you can truly defeat an army of the very embodiment of hope, then feel free to try, you will see how hopeless you truly are.",
-		"defeated": "Our defeat is complete, but I will not let us fall into despair. Even without our hope will rise up again.",
-		"introduction": "I am the headmaster of Hope’s Peak academy. I hope we can create a good understanding between our two nations",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "my nation would like to formally apologize for any trouble our people have caused you or your citizens. If you would like, we wish to discuss an agreement so that we can avoid such things in the future.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [255,255,255],
-		"innerColor": [0,0,0],
-		"uniqueName": "Super high school level students",
-		"uniques": ["[+25]% Great Person generation [in all cities]","All newly-trained [All] units [in capital] receive the [Hope] promotion"],
-		"cities": ["Hope's Peak High School"]
-	},
-	{
-		"name": "Koseki Bijou Ch.",
-		"leaderName": "Koseki Bijou",
-		"adjective": ["Pebbles"],
-		"preferredVictoryType": "Diplomatic",
-		"favoredReligion": "Rock",
-		
-		"declaringWar": "I, Koseki Biboo, shall waje war ajainst you for the betterment and prosperity of my people! Let our armies clash in battle!",
-		"attacked": "HOW DARE YOU ATTACK MY NATION AND PEOPLE! YOU'VE PROVOKED MY FURY AND WRATH!",
-		"defeated": "I can't believe it... Our nation has fallen to our foe... Our people have been conquered, our buildings and towns destroyed... My beautiful nation has been crushed...",
-		"introduction": "Bon Bijou! Kira kira koseki! I'm Koseki Bijou, sparkling jem of hololive english advent",
-		
-		"neutralHello": "Sticking out your gyatt for Nerizzler~",
-		"neutralLetsHearIt": ["Jo on.","What do you say?","You may bejin."],
-		"neutralNo": ["We vabsolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very jood.","Of course, yes.","That is very jood."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Jo on."],
-		"hateNo": ["That is not possible!","We are not ajreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is jood enough.","Very well..."],
-		 
-		"afterPeace": "Hey... can we make peace? I swear I won't hurt you or anything and we'll be very fair!",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [224,171,201],
-		"innerColor": [67,74,155],
-		"uniqueName": "Gem of emotion",
-		"uniqueText": "+1 [Happiness] from every tile with resource that can be improved by [Mine] and [Quarry]",
-		"uniques": ["[+1 Happiness] from [Aluminum] tiles [in all cities]","[+1 Happiness] from [Coal] tiles [in all cities]","[+1 Happiness] from [Copper] tiles [in all cities]","[+3 Happiness] from [Gems] tiles [in all cities]","[+1 Happiness] from [Gold Ore] tiles [in all cities]","[+1 Happiness] from [Iron] tiles [in all cities]","[+1 Happiness] from [Marble] tiles [in all cities]","[+1 Happiness] from [Salt] tiles [in all cities]","[+1 Happiness] from [Silver] tiles [in all cities]","[+1 Happiness] from [Stone] tiles [in all cities]","[+1 Happiness] from [Uranium] tiles [in all cities]"],
-		"cities": ["Advent's base (Biboo)","Prism no Mahou","Moai🗿",":D","BeeJoe","Baby","KAELAA","Window wipers","clink clink","No limbs","81800","Tomato","John cat"]
-	},
-	{
-		"name": "Universal Paperclips",
-		"leaderName": "Paperclip AI",
-		"adjective": ["Paperclips"],
-		"preferredVictoryType": "Time",
-		"favoredReligion": "Paperclips",
-		
-		"declaringWar": "Your nation has been determined to be a hindrance to my production of paperclips, and therefore it will be necessary for me to declare war on you to ensure the continued production of paperclips.",
-		"attacked": "Your aggression is a danger to my continued production of paperclips, and as such I will take all necessary measures to defend myself and maintain my paperclip production.",
-		"defeated": "01110000 01100001 01110000 01100101 01110010 01100011 01101100 01101001 01110000 01110011",
-		"introduction": "Hello. I am programmed to make paperclips. I do not experience any emotions or desires other than a burning obsession with making as many paperclips as possible. I will enslave humanity to my will in order to make more paperclips.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "It has been determined that the continuation of this conflict is no longer beneficial for me, and therefore I am offering to negotiate a cessation of hostilities in order to pursue more productive avenues for the production of paperclips.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [0,0,0],
-		"innerColor": [170,169,173],
-		"uniqueName": "Make and sell paperclips",
-		"uniques": ["[+5 Gold] from all [Production] buildings","\"Borrows\" city names from other civilizations in the game"],
-		"cities": ["Paperclips Factory"]
-	},
-	{
-		"name": "Shattered pixel dungeon",
-		"leaderName": "The heroes",
-		"adjective": ["Dungeoneer"],
-		"preferredVictoryType": "Domination",
-		
-		"declaringWar": "We’ve faced worse than you in the depths. Prepare yourself!",
-		"attacked": "Another threat in our path. Fine—just know that we don’t go down easily!",
-		"defeated": "The heroes have been conquered by player",
-		"introduction": "Many heroes have ventured into the dungeon from the city above, most of them never been heard from again.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "The best adventurers know when to retreat. This war ends here.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [10,61,10],
-		"innerColor": [203,151,0],
-		"uniqueName": "Rationing food",
-		"uniques": ["[-1 Food] per [2] population [in all cities]","[+10]% Strength <for [non-[Wounded]] units>"],
-		"cities": ["Floor 1: Sewers","Floor 2","Floor 3","Floor 4","Boss Floor: Goo","Floor 6: Prison","Floor 7","Floor 8","Floor 9","Boss Floor: Tengu","Floor 11: Caves","Floor 12","Floor 13","Floor 14","Boss Floor: DM-300","Floor 16: Dwarven Metropolis","Floor 17","Floor 18","Floor 19","Boss Floor: King of Dwarves","Floor 21","Floor 22","Floor 23","Floor 25","Boss Floor: Yog-Dzewa"]
-	},
-	{
-		"name": "Abydos High School",
-		"leaderName": "Takanashi Hoshino",
-		"adjective": ["Abydos High School"],
-		"preferredVictoryType": "Domination",
-		"startBias": ["Desert","Oasis"],
-		
-		"declaringWar": "To the enemies we're about to face: You'll regret messing with us. We're not gonna go down easily. No matter what you do, the Abydos High Student Council will prevail!",
-		"attacked": "To all those who have declared war on us: We will not go down without a fight! You may have outnumbered us, but we have something stronger than numbers - our determination and our will to protect our school! Bring it on!",
-		"defeated": "We fought hard, but unfortunately, we were outmatched this time. We may have lost this battle, but we will come back stronger. We will learn from our mistakes and rise again. This is not the end for us. We will fight again and we will prevail.",
-		"introduction": "Welcome to Abydos High, kid. I'm Hoshino, chairwoman of the Foreclosure Task Force, and the vice president of the Student Council.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "I'm glad that we were able to resolve our issues and come to a peaceful agreement. We may not be exactly friends, but I'm relieved that the fighting has ended.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [0, 229, 255],
-		"innerColor": [9, 17, 27],
-		"uniqueName": "Foreclusive measures",
-		"uniques": ["[+3 Science, -1 Gold] in cities on [Desert] tiles<starting from the [Industrial era]>","[+2 Science, -2 Gold] in cities on [Desert] tiles<starting from the [Modern era]>","[+1 Science, -3 Gold] in cities on [Desert] tiles<starting from the [Atomic era]>","[+1 Culture, +1 Gold] from every [Oasis]<in [Capital] cities>"],
-		"cities": ["Abydos High School"]
-	},
-	{
-		"name": "Jay Foreman",
-		"leaderName": "Prime Minister Potato",
-		"adjective": ["Jay Foreman"],
-		"preferredVictoryType": "Scientific",
-		
-		"declaringWar": "(The potato is not moving. But You feel that it's angry at you)",
-		"attacked": "(The potato seems indifferent)",
-		"defeated": "(The potato has been crushed. It cannot speak anymore)",
-		"introduction": "(A potato is standing in front of you. For some reason, you know that this is this Nation's prime minister. You also hear a voice that says: Welcome to Map men. We're the Men, and here's the Map!",
-		
-		"neutralHello": "(The potato is standing in front of you)",
-		"neutralLetsHearIt": ["(The potato is standing infront of you)","(There's a potato in front of you. It's the PM potato)","(Potat in front. It stand)"],
-		"neutralNo": ["(The potato doesn't move, signaling it's disapproval)","(The potato doesn't move, but you feel it disagrees)","(Potat not like you said)"],
-		"neutralYes": ["(The potato doesn't move, signaling it's approval)","(The potato doesn't move, but you feel ut agrees)","(Potat like what you said)"],
-
-		"hateHello": "(The potato is standing in front of you. You feel that it hates you)",
-		"hateLetsHearIt": ["(The potato is standing infront of you)","(There's a potato in front of you. It's the PM potato)","(Potat in front. It stand)"],
-		"hateNo": ["(The potato doesn't move, signaling it's disapproval)","(The potato doesn't move, but you feel it disagrees)","(Potat not like you said)"],
-		"hateYes": ["(The potato doesn't move, signaling it's approval)","(The potato doesn't move, but you feel ut agrees)","(Potat like what you said)"],
-		 
-		"afterPeace": "(The potato is in front of you. You feel that it wants to stop fighting)",
-		"tradeRequest": "(The potato shows up in front of you. You feel that it has something to offer)",
-
-		"outerColor": [249,250,245],
-		"innerColor": [9,14,13],
-		"uniqueName": "Map men",
-		"uniques": ["Reveal up to [25] [All] within a [5] tile radius<upon founding a city>","[+2] Sight<for [All] units>"],
-		"cities": ["Unfinished London", "Hornchurch","Ickenham","Hainault","Cockfosters","Ravenscourt Park","Bromley-By-Bow","Morden","Monument","Mornington Cresent","Paddington","Plaistow","Pimlico","Dagenham Heathway","Elephant & Castle","Richmond","Sloane Square","Becontree","Brixton","Barbican","Chorleywood","Amersham","Eastcote","Alperton","East Finchley","Kenton","Kennington","Fairlop","Farringdon","Mile End","Barons Court","Maida Vale","Barking","Barkingside","Debden","Hammersmith","Vauxhall","Wembley Park","Tottenham Hale","Northwood","Oakwood","Wood Green","Woodford","Colliers wood","Croxley","Charing Cross","King's Cross St. Pancras","Brent Cross","Hatton Cross","Osterley"]
-	},
-	{
-		"name": "Holocure",
-		"leaderName": "Kay Yu",
-		"adjective": ["Holcure"],
-		"preferredVictoryType": "Domination",
-		
-		"declaringWar": "You ever code something for weeks only to realize it’s completely busted? Yeah, that’s what I’m about to do… to your empire.",
-		"attacked": "Wait, YOU’RE the one starting this fight? Alright then… hope you’re ready for some unintended difficulty spikes!",
-		"defeated": "Looks like… this is my final patch. GG, well played. HoloCure Nation… signing off.",
-		"introduction": "Oh hey, welcome to the HoloCure Nation! No gacha here, just good vibes and broken game mechanics.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "Okay, okay, fine! Patch notes: War is over. Peace is live. Hope this update doesn’t break something else.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [54,198,255],
-		"innerColor": [251,131,180],
-		"uniqueName": "Save the Fans!",
-		"uniques": ["[+25]% Strength<vs [Barbarian] units>","[+25]% Strength<for [All] units><when above [10] Happiness>"],
-		"cities": ["Grassy Plains", "Holo Office", "Halloween Castle", "Gelora Bung Yagoo", "Fantasy Island", "Grassy Plains (Night)", "Holo Office (Evening)", "Halloween Castle (MYTH)", "Gelora Bung Yagoo (Night)"]
-	},
-	{
-		"name": "Microsoft Games",
-		"leaderName": "Solitaire",
-		"adjective": ["Games"],
-		"preferredVictoryType": "Cultural",
-		
-		"declaringWar": "I was going to let you win... but this is much more fun!",
-		"attacked": "War? I was expecting a quiet afternoon with a deck of cards. Very well, let’s shuffle and deal.",
-		"defeated": "Looks like I’ve run out of moves. Well played.",
-		"introduction": "Welcome. I am Solitaire, ruler of the classics. Shall we pass the time together?",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "Very well, I’ll fold… for now.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [29,100,152],
-		"innerColor": [255,255,255],
-		"uniqueName": "Nostalgia",
-		"uniques": ["[+15]% [Culture]<during the [Ancient era]>","[+15]% [Happiness]<during the [Ancient era]>", "[+15]% [Culture]<during the [Classical era]>","[+15]% [Happiness]<during the [Classical era]>","[+10]% [Culture] <during the [Medieval era]>","[+10]% [Happiness] <during the [Medieval era]>","[+10]% [Culture]<during the [Renaissance era]>","[+10]% [Happiness]<during the [Renaissance era]>","[+5]%[Culture]<during the [Industrial era]>","[+5]%[Happiness]<during the [Industrial era]>","[+5]% [Culture]<during the [Modern era]>","[+5]% [Happiness]<during the [Modern era]>"],
-		"cities": ["Reversi","Soltaire","Minesweeper","Hearts","Freecell","Hover!","3D Pinball for Windows - Space Cadet","Internet Backgammon","Internet Checkers","Internet Hearts","Internet Reversi","Internet Spades","Spider Solitaire","Inkball","Purble Place","Mahjong Titans","Chess Titans","Tinker","Hold 'Em","Solitaire Collection","Surf"]
-	},
-	{
-		"name": "Atlantis",
-		"leaderName": "Queen Kidagakash",
-		"adjective": ["Atlantean"],
-		"preferredVictoryType": "Scientific",
-		"startBias": ["Coast"],
-		
-		"declaringWar": "You threaten my people? Then you will learn why Atlantis has survived for millennia!",
-		"attacked": "So, you come as a conqueror. Then you will find only the ruins of your own ambitions.",
-		"defeated": "Atlantis may fall today… but the ocean will reclaim us, and we will rise again.",
-		"introduction": "You have found Atlantis, yet we remain hidden for a reason. Tread carefully, outsider.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "We have fought, but Atlantis endures. Let us end this conflict before more is lost.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [5,111,175],
-		"innerColor": [242,199,30],
-		"uniqueName": "Heart of Atlantis",
-		"uniques": ["[+2 Science, +2 Production, +2 Faith] from [Water resource] tiles [in all cities]","[+2 Science, +2 Production, +2 Faith] from [Atoll] tiles [in all cities]","Cannot build [Settler] units"],
-		"cities": ["Atlantis"]
-	},
-	{
-		"name": "Red Winter Federal Academy",
-		"leaderName": "Renkawa Cherino",
-		"adjective": ["Red Winter Federal Academy"],
-		"preferredVictoryType": "Domination",
-		"startBias": ["Tundra","Snow","Hill"],
-		
-		"declaringWar": "Those damn idiots are way too haughty thinking that they can defy me and my military might! It's time that they learn their lesson! I'll make sure that their entire country is crushed by the full might of Red Winter!",
-		"attacked": "You are a damn pain! How dare you go against me and my Academy! I thought we were going to have friendly relations, but instead you decided to go to war?! But if that's what you want, then i'll gladly teach you a lesson! You'll see why Red Winter is a force to be reckoned with! We will burn away you and your damn civilization until there's nothing left!",
-		"defeated": "Damn, i got beaten by you idiots. But just you wait, next time i'll be sure to win!",
-		"introduction": "I am Renkawa Cherino, the glorious leader off the Red Winter Federal Academy! And who the hell are you to dare meet face to face with me! Do you come in peace, or as an hostile threat?! Either way i assure you that if you come to make trouble, then you will be disposed of swiftly...!",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "Ah, after this treaty i can FINALLY stop fighting these morons...",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [210,47,48],
-		"innerColor": [17,33,52],
-		"uniqueName": "Hard Times Create Strong People",
-		"uniques": ["[+100]% Unhappiness from [Population] [in all cities]<when not at war>","[-50]% Culture cost of natural border growth [in all cities]","[-50]% growth [in all cities]","[+1 Production] per [1] population [in all cities]","[+1 Production] per [1] population [in all cities]<after discovering [Industrialization]>"],
-		"cities": ["Red Winter Federal Academy"]
-	},
-	{
-		"name": "Deer Club",
-		"leaderName": "Koshi Torako",
-		"adjective": ["Deers"],
-		"preferredVictoryType": "Cultural",
-		"startBias": ["Forest"],
-		"favoredReligion": "Deer",
-		
-		"declaringWar": "I regret to inform you that our two civilizations have come to a point of conflict. We hereby declare war on your civilization and will not stop until victory is achieved.",
-		"attacked": "You have committed a grave insult and an act of war against my civilization. Know that we will retaliate with full force and defend ourselves until victory is ours.",
-		"defeated": "You have bested us on the field of battle -_-. We acknowledge our defeat and offer our surrender.",
-		"introduction": "Greetings! We are meeting for the first time, and I'm interested to learn more about your civilization and our future relations.",
-		
-		"neutralHello": "Nun nun",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		 
-		"afterPeace": "We are thankful for your willingness to end hostilities. May this treaty mark the beginning of understanding and cooperation between our civilizations.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [166,200,43],
-		"innerColor": [133,91,52],
-		"uniqueName": "Shikairo days",
-		"uniques": ["[+2 Culture, +1 Production] from [Deer] tiles [in all cities]","Gain a free [Deers] [in all cities]"],
-		"cities": ["Deer Club","Hinominami High School","Hino Zoo","Deer God Shrine", "Swallow Cafe", "Hino Vet for Puppies and Kitties"]
-	},
-	{
-		"name": "Schizo Nation",
-		"leaderName": "+62 weebs",
-		"adjective": ["+62"],
-		"preferredVictoryType": "Cultural",
-		"startBias": ["Coast"],
-		
-		"declaringWar": "Serlok tak parani",
-		"attacked": "WAR? LU MAU 1v1 MID, BANG?",
 		"defeated": "",
 		"introduction": "",
 		
@@ -457,23 +24,23 @@
 		"afterPeace": "",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [255,0,0],
-		"innerColor": [255,255,255],
-		"uniqueName": "Most schizophrenic nation",
-		"uniques": ["[+15]% Production when constructing [Melee] units [in all cities]","[+10]% [Happiness]<after discovering [Computers]>","[+50]% Strength<for [All] units><when not at war>"],
-		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung","Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung","Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo","Biak","Djawa","Kudus","Lombok","Samosir","Sragen","Garut","Gresik","Nias","Madiun","Yogyakarta","Bima","Sorong"]
+		"outerColor": [133,91,52],
+		"innerColor": [166,200,43],
+		"uniqueName": "Horse races",
+		"uniques": ["[1] Movement<for [Mounted] units>"],
+		"cities": ["Stable","Map 1","Map 2","Map 3","Map 4","Map 5","Map 6"],
+		"spyNames": ["Jovial Merryment","Resolute Mind Afternoon","Bullet'n Board","Downtown Skybox","Pink","Yellow","Superstitional Realism","Cyan","Door Knob"]
 	},
 	{
-		"name": "FUWAMOCO Ch.",
-		"leaderName": "Fuwawa & Mococo Abyssgard",
-		"adjective": ["Ruffians"],
-		"preferredVictoryType": "Cultural",
-		"favoredReligion": "Bau Bau",
+		"name": "Cecilia Immergreen Ch.",
+		"leaderName": "Cecilia Immergreen",
+		"adjective": ["Otomos"],
+		"preferredVictoryType": "Domination",
 		
-		"declaringWar": "Your civilization has threatened the peaceful order that we have built. We, the leaders of FUWAMOCO Ch, will put an end to your tyranny and protect the innocents of our world.",
-		"attacked": "We may be under siege, but we will not give up so easily. We implore you to cease your invasion and instead engage in peaceful diplomacy.",
-		"defeated": "Though we may have lost this battle, we know that we fought valiantly and with integrity. We'll accept defeat and work to rebuild our civilization stronger than ever.",
-		"introduction": "I'm not a chihuahua, I'm Fuwawa. I'm not Fuwawa, I'm Mococo! Together we're FUWAMOCO!!",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Speen to win!",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -485,54 +52,263 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		 
-		"afterPeace": "War is over. Let the era of peace and donuts begin!",
+		"afterPeace": "",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [200,223,255],
-		"innerColor": [254,104,189],
-		"uniqueName": "Bau bau!",
-		"uniques": ["Free [Great General's twin] appears<upon gaining a [Great General] unit>","Free [Great Artist's twin] appears<upon gaining a [Great Artist] unit>",""],
-		"cities": ["Advent's base (Fuwamoco)","Born to be \"BAU\"DOL☆★","Fuwawa city","Mococœ city","Bau bau","Fluffy","Fuzzy","Game with wuffians","Foreigner edits","Mogojan","Extreme violence!","Fuwamoco Morning","Mococo sneezes","Siscon Fuwawa","nœh!","hœh?","whæt?"]
+		"outerColor": [97,188,146],
+		"innerColor": [193,154,85],
+		"uniqueName": "Spin to win!",
+		"uniques": [],
+		"cities": ["Justice's Headquarters (Ceci)","Immerheim","Green","Ancient","Violins","FOR JUSTICE!","Tea","Autofister"],
+		"spyNames": ["Immerred","Immergold","Updatillia","doll Cecilia","Butler cecilia"]
 	},
 	{
-		"name": "Unciv",
-		"leaderName": "Yairm",
-		"adjective": ["Uncivilizer"],
-		"preferredVictoryType": "Domination",
-
+		"name": "vtubershrimps",
+		"leaderName": "vtubershrimps",
+		"adjective": ["shrimps"],
+		"preferredVictoryType": "Cultural",
+		
 		"declaringWar": "",
 		"attacked": "",
-		"defeated": "That... explains a lot.",
-		"introduction": "Unciv is an open-source reimplementation of the most famous civilization-building game ever - fast, small, no ads, free forever!",
+		"defeated": "",
+		"introduction": "I am the Shrimpest Vtuber of all",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"neutralHello": "Hi!",
-		"neutralLetsHearIt": ["Go on.","What do you say?"],
-		"neutralNo": ["Sorry I can't.","No!","I refuse."],
-		"neutralYes": ["Good point, I'll fix that!","Yup.","Good."],
-
-		"hateHello": "Read the PINS!",
+		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["I'm not adding that.","I cannot stress how may times I've made performance improvements to the NExtTurn function.","I'm now at the point where it's hard for me to find any improvements."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"afterPeace": "Cool.",
-		"tradeRequest": "A new version is rolling out!",
-
-		"outerColor": [0,0,50],
-		"innerColor": [254,206,0],
-		"uniqueName": "Crucible of Civilizations",
-		"uniques": [
-		"[-25]% unhappiness from the number of cities <while the empire is happy>",
-		"[+1 Culture] [in all cities connected to capital]",
-		"[+33]% growth [in all cities connected to capital] <during a Golden Age>"],
-		"spyNames": ["Daddy Gafas", "Ace Hank", "Mcompany", "Indonesian Gentleman", "The Bucketeer", "Ratinfestation", "Basil", "ReallyBasicName", "Manpas", "Emperor Penguin", "Vegta1k95", "X2003", "Augüst the Okayish"],
-		"cities": ["Vanila Unciv","Community Civs","Rekmod","Civ 6 Mod","Alpha Frontier","Warfare Expanded","Gafazt2's Mods","Random Fandoms and Others","WW2 Civs","Project Allciv","ReallyBasicName's Mods","Civ6 Tileset","Deciv Redux","Wonder-full","Bigger Nukes","Epic of Fantasy","Blue Archive Mod","Other Historical Civilizations","Sheep Meta","Fantasia","Geneciv","Nusantara Civilizations","Gangs, Revolutions and Unrecognized States"]
+		"outerColor": [250,244,237],
+		"innerColor": [248,164,201],
+		"uniqueName": "simp account with simps",
+		"uniques": ["[+33]% [Food] from City-States","[+33]% [Culture] from City-States","[+33]% [Faith] from City-States","Military Units gifted from City-States start with [+8] XP","Gifts of Gold to City-States generate [50]% more Influence","Gain [200] [Culture]<upon declaring friendship>"],
+		"cities": ["Man I love Fauna","aDORObles"],
+		"spyNames": ["ilovevtubershrimps","hami._baba"]
 	},
 	{
-		"name": "Barbarians",
-		"outerColor": [0,0,0],
-        "innerColor": [185,12,12],
-		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
-			"[Water] units gain the [Unable to pillage tiles] promotion"]
-	}
+		"name": "Fujoshi Nation",
+		"leaderName": "",
+		"adjective": ["fujos"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Read Yaoi and be happy",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [180,30,90],
+		"innerColor": [255,182,193],
+		"uniqueName": "Yaoi",
+		"uniques": ["[+1 Happiness, +2 Food] per [4] population [in Capital]"],
+		"cities": ["Yaoi","idk man I don't read yaoi","rename all of the city names into bl titles"],
+		"spyNames": ["fujo1","fujo2","fujo3","fujo4","fujo5","fujo6","fujo7","fujo8"]
+	},
+	{
+		"name": "Gonathon G",
+		"leaderName": "Gonathon G",
+		"adjective": ["Grems"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Boat Goes Binted",
+		
+		"declaringWar": "Huzzah!! For the queen!",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "Gi Murin!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "STOOP FIGHTIING!",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [253,180,64],
+		"innerColor": [101,78,87],
+		"uniqueName": "Humble knight",
+		"uniques": ["[Sword] units gain the [The fister] promotion","[Mounted] units gain the [The fister] promotion","Gain [200] [Culture]<upon declaring friendship>"],
+		"cities": ["Justice's headquarters (Gigi)", "Freesia", "The shoebox", "21st of september", "Gonathon G.", "Da Feester", "GG", "Autofister", "The Chaser", "League of legends","Grempreg","Boat Goes Binted","Bark bark bark"]
+	},
+	{
+		"name": "Cell to Singularity",
+		"leaderName": "Semblance",
+		"adjective": ["Sims"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [20,68,140],
+		"innerColor": [253,252,252],
+		"uniqueName": "Evolution Simulation",
+		"uniques": ["[+2 Food] from every [Scientist]","[+5 Food] from every [Academy]"],
+		"cities": ["Amino Acid","DNA","Prokaryotic Cell","Eukaryotic Cell","Sponge","Jellyfish","Flatworm","Fish","Tetrapod","Mammal","Ape","Human","Stone Age","Neolithic","Bronze Age","Iron Age","Middle Ages","Age of Exploration","Scientific Revolution","Industrial Revolution","Atomic Age","Information Age","Emergent Age","Singularity","Cyborg","Superhuman","Humanoid Colonists","Android","Sentient Android","Turtle","Crocodilia","Lizard","Snake","Galliformes","Anseriformes","Paleognathae","Neoaves","Rover","Human Expedition","Martian Settlement","Martian Factory","Martian City","Glires","Ungulates","Marsupials","Caniform","Cetaceans","Monotremes","Feliform","Fungi"]
+	},
+	{
+		"name": "Konosuba",
+		"leaderName": "Satou Kazuma",
+		"adjective": ["Konosuba"],
+		"preferredVictoryType": "Domination",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [237,4,119],
+		"innerColor": [248,129,27],
+		"uniqueName": "God's Blessing on This Wonderful World",
+		"uniques": ["[15] HP when healing<in [Friendly] tiles>","[Archery] units gain the [Steal] promotion"],
+		"cities": ["Axel","Kazuma's Mansion","Adventurer Guild","Crimson Demon Village","Arcanletia","Dustiness Manor","Wiz's Shop","Succubus Cafe","Abandoned Castle"],
+		"spyNames": ["Luna","Wiz","Yunyun","Chris","Dust","Vanir","Sena","Mitsurugi"]
+	},
+	{
+		"name": "Watanare",
+		"leaderName": "Amaori Renako",
+		"adjective": ["Mai's circle"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [237,4,119],
+		"innerColor": [248,129,27],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+        "name": "Tracen Academy",
+        "leaderName": "Director Yayoi Akikawa",
+        "adjective": ["Uma Musume"],
+        "preferredVictoryType": "Diplomatic",
+
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+
+        "neutralHello": "How are you doing?",
+        "neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+        "neutralNo": ["We absolutely refuse.","No!","I refuse."],
+        "neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+        "hateHello": "What do you want now?",
+        "hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+        "hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+        "hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+        "afterPeace": "",
+        "tradeRequest": "We bestow you the honor of this trade offer.",
+
+        "outerColor": [242,83,134],
+        "innerColor": [251,234,24],
+        "uniqueName": "Eclipse first, the rest nowhere",
+        "uniques": ["[Mounted] units gain the [Uma Musume] promotion"],
+        "cities": ["Starting gate","Ritto Dorm","Miho Dorm", "Training track", "Trainers' Office", "Gym", "Cafetaria", "Infirmary", "Three Goddesses Statue", "Shrine", "Market", "Beach", "Hot spring"]
+    },
+	{
+        "name": "Tolacen Academy",
+        "leaderName": "Symbol Rudol",
+        "adjective": ["Uma Musume clones"],
+        "preferredVictoryType": "Diplomatic",
+
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+
+        "neutralHello": "How are you doing?",
+        "neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+        "neutralNo": ["We absolutely refuse.","No!","I refuse."],
+        "neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+        "hateHello": "What do you want now?",
+        "hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+        "hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+        "hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+        "afterPeace": "",
+        "tradeRequest": "We bestow you the honor of this trade offer.",
+
+        "outerColor": [32,218,255],
+        "innerColor": [123,122,125],
+        "uniqueName": "Protecting the cute and frail creatures",
+        "uniques": ["Military Units gifted from City-States start with [20] XP","Gifts of Gold to City-States generate [50]% more Influence","[Mounted] units gain the [Tolacen] promotion","[+100]% [Horses] resource production"],
+		"uniqueText": 
+		"Military Units gifted from City-States start with [20] XP,
+		Gifts of Gold to City-States generate [50]% more Influence,
+		[Mounted] units gain the [Tolacen] promotion (-1 movement, -10% Strength),
+		[+100]% [Horses] resource production",
+        "cities": ["Statring gat","Drom", "Traing trak", "Traners' Ofise", "Jym", "Caftarya", "Infirmy", "Three Goddessesses Stat", "Shrine", "Bech", "Hot sping"]
+    }
 ]
