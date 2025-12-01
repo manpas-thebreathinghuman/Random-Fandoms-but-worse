@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Pon De Ring",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen", "Doesn't generate naturally",
+			"Stockpiled", "Cannot be traded", 
+			"Excluded from map editor"]
+    }
+]
