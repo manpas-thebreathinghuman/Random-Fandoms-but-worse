@@ -244,71 +244,37 @@
 		"innerColor": [248,129,27],
 		"uniqueName": "",
 		"uniques": [""],
-		"cities": [""]
+		"cities": ["Muri-muri Evolution"]
 	},
-	{
-        "name": "Tracen Academy",
-        "leaderName": "Director Yayoi Akikawa",
-        "adjective": ["Uma Musume"],
-        "preferredVictoryType": "Diplomatic",
+		{
+		"name": "Sudoku Variants",
+		"leaderName": "numbers",
+		"adjective": ["variants"],
+		"preferredVictoryType": "Cultural",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-        "declaringWar": "",
-        "attacked": "",
-        "defeated": "",
-        "introduction": "",
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		 
+		"afterPeace": "",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-        "neutralHello": "How are you doing?",
-        "neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-        "neutralNo": ["We absolutely refuse.","No!","I refuse."],
-        "neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-        "hateHello": "What do you want now?",
-        "hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-        "hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-        "hateYes": ["That is fine.","That is good enough.","Very well..."],
-
-        "afterPeace": "",
-        "tradeRequest": "We bestow you the honor of this trade offer.",
-
-        "outerColor": [242,83,134],
-        "innerColor": [251,234,24],
-        "uniqueName": "Eclipse first, the rest nowhere",
-        "uniques": ["[Mounted] units gain the [Uma Musume] promotion"],
-        "cities": ["Starting gate","Ritto Dorm","Miho Dorm", "Training track", "Trainers' Office", "Gym", "Cafetaria", "Infirmary", "Three Goddesses Statue", "Shrine", "Market", "Beach", "Hot spring"]
-    },
-	{
-        "name": "Tolacen Academy",
-        "leaderName": "Symbol Rudol",
-        "adjective": ["Uma Musume clones"],
-        "preferredVictoryType": "Diplomatic",
-
-        "declaringWar": "",
-        "attacked": "",
-        "defeated": "",
-        "introduction": "",
-
-        "neutralHello": "How are you doing?",
-        "neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-        "neutralNo": ["We absolutely refuse.","No!","I refuse."],
-        "neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-        "hateHello": "What do you want now?",
-        "hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-        "hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-        "hateYes": ["That is fine.","That is good enough.","Very well..."],
-
-        "afterPeace": "",
-        "tradeRequest": "We bestow you the honor of this trade offer.",
-
-        "outerColor": [32,218,255],
-        "innerColor": [123,122,125],
-        "uniqueName": "Protecting the cute and frail creatures",
-        "uniques": ["Military Units gifted from City-States start with [20] XP","Gifts of Gold to City-States generate [50]% more Influence","[Mounted] units gain the [Tolacen] promotion","[+100]% [Horses] resource production"],
-		"uniqueText": 
-		"Military Units gifted from City-States start with [20] XP,
-		Gifts of Gold to City-States generate [50]% more Influence,
-		[Mounted] units gain the [Tolacen] promotion (-1 movement, -10% Strength),
-		[+100]% [Horses] resource production",
-        "cities": ["Statring gat","Drom", "Traing trak", "Traners' Ofise", "Jym", "Caftarya", "Infirmy", "Three Goddessesses Stat", "Shrine", "Bech", "Hot sping"]
-    }
+		"outerColor": [102,188,238],
+		"innerColor": [244,244,248],
+		"uniqueName": "1 to 9",
+		"uniques": [""],
+		"uniqueText": "(Not implemented yet) It would be if a tile improvement has none of it's kind around, it will give twice the yield or something",
+		"cities": ["Classic","Windoku","Thermometer","Anti-knight","Renban","Skyscraper","Sandwich","Region Sum","Palindrome","Math","Kropki","Killer","Comparison","German Whisper","Even-Odd","Entropic","Diagonal","Chaos","Asterisk","Arrow","Center Cells","V/X","Border Sum","Border Pair"]
+	}
 ]

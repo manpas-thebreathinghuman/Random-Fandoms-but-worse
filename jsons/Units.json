@@ -10,21 +10,19 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Self-destructs when attacking"],
 		"cost": 70
 	},
-	{
-		"name": "Ummusme Clone",
-		"uniqueTo": "Tolacen Academy",
+		{
+		"name": "Anti-knight",
 		"unitType": "Mounted",
-		"movement": 4,
-		"strength": 11,
-		"requiredTech": "Horseback Riding",
+		"uniqueTo": "Sudoku Variants",
+		"replaces": "Knight",
+		"movement": 3,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking",
-			"No defensive terrain bonus",
-			"[-33]% Strength <vs cities> <when attacking>",
-			"[+7] Strength<starting from the [Medieval era]>",
-			"[+13] Strength<starting from the [Industrial era]>",
-			"Unbuildable"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Mounted] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	}
 ]
